@@ -98,3 +98,6 @@ providedCharacteristics:
 configuration: []
 ----
 
+Note: 
+a) "artifactId" and "version" in mule-artfiact.json and pom.xml should match
+b) Name of the YAML file should be same as the artifactId
